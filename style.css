@@ -1,0 +1,15 @@
+.marlem {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    width: 50%;
+    height: 50%;
+
+}
+.content img {
+    width: 200px;
+    height: 200px;
+}
